@@ -1,11 +1,7 @@
 import { Link } from 'react-router-dom';
-
 import bobyImage from '../assets/boby.png'; 
 
-function Home() {
-  // URL de la imagen que generé (solo para referencia, usa la local):
-  // http://googleusercontent.com/image_generation_content/0...
-  
+function Home() {  
   return (
     <main className="home-section">
       <section className="hero">
