@@ -25,7 +25,7 @@ function Home() {
       <section className="contact">
         <h2>¡Empieza a usar a Boby!</h2>
         <a 
-          href="https://wa.me/TU_NUMERO_DE_WHATSAPP_EMPRESA" 
+          href="https://wa.me/5219931142449?text=Hola" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="whatsapp-btn"
