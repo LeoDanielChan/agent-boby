@@ -7,7 +7,7 @@ function PrivacyPolicy() {
       <p>Fecha de última actualización: Septiembre 2025</p>
 
       <h2>1. Recopilación de Información</h2>
-      <p>El Agente Boby, operado por [Tu Nombre/Empresa], interactúa exclusivamente a través de la API de WhatsApp Cloud.</p>
+      <p>El Agente Boby, operado por una empresa independiente, interactúa exclusivamente a través de la API de WhatsApp Cloud.</p>
       <ul>
         <li>**Mensajes de Usuario:** Almacenamos el historial de tus mensajes (texto, imágenes, audio) en nuestra base de datos (Firebase Firestore) para mantener el contexto de la conversación. Esta información se usa únicamente para mejorar la calidad y relevancia de las cotizaciones de Boby.</li>
         <li>**Datos del Contacto:** Solo almacenamos el número de teléfono del usuario (ID de remitente) para identificar y gestionar el historial de chat.</li>
